@@ -1,6 +1,6 @@
 # Analyse de l’historique YouTube
 
-[Lien doc](#)
+[Voir la documentation technique des transformations des données](./assets/documentation/README.md)
 
 Dans le cadre d’un travail personnel d’analyse de données, j’ai souhaité expérimenter l’outil **Google Takeout**, voir dans quelle mesure les données allaient être utilisables dans **Microsoft Power BI**, et explorer mes données YouTube par curiosité.
 
