@@ -1,6 +1,6 @@
 # Documentation - Préparation des données
 
-Description de la préparation des données avant la mise en forme
+Les données ont été exportées (en .json) depuis Google Takeout, puis ont été intégralement manipulées et transformées dans le module Power Query de Power BI.
 
 # Import du .json dans Power Query
 
