@@ -10,7 +10,6 @@ Cette analyse vise à :
 - Manipuler les données dans Microsoft Power BI  
 - Connaitre mes données en tant qu’utilisateur de YouTube  
 
----
 
 ## Problèmes identifiés
 
@@ -18,13 +17,11 @@ Cette analyse vise à :
 - Google Takeout permet d’extraire les données en `.csv`, sauf celles qui nous intéressent (historique YouTube) qui sont uniquement fournies en `.json`.  
 - Certaines données n’existent pas de base, et le dataset d’origine doit être enrichi pour créer certains insights.  
 
----
 
 ## Destinataire de l’analyse
 
 - Tout le monde  
 
----
 
 ## Critères attendus
 
@@ -33,7 +30,6 @@ Cette analyse vise à :
 - Limiter les informations en ne laissant que les plus importantes, pertinentes pour le plus grand nombre  
 - Avoir au moins **1 année complète** de données  
 
----
 
 ## Données / informations requises
 
@@ -41,13 +37,11 @@ Cette analyse vise à :
 - Dates des visionnages  
 - Type de chaque contenu (vidéo vs publicité)  
 
----
 
 ## Résultats
 
 *Image à insérer ici*  
 
----
 
 ## Analyse
 
@@ -64,7 +58,6 @@ Les données recueillies ne contiennent pas d’information sur la durée de cha
 
 Cependant, comme une vidéo dure généralement plus longtemps qu’une publicité, on peut supposer que, même si les publicités sont plus nombreuses, le **temps total passé devant les vidéos reste bien supérieur** à celui passé devant les publicités.  
 
----
 
 ### Une cartographie de mes centres d'intérêt
 
@@ -76,7 +69,6 @@ Dans le **Top 10 des chaînes YouTube les plus regardées**, 3 (dont la #1 *GCN 
 Ces données révèlent une forte corrélation entre les **centres d’intérêt personnels** et les habitudes de consommation sur YouTube.  
 Le vélo a eu un fort impact en 2024, mais les contenus liés aux jeux vidéo sont encore plus représentés, ce qui pourrait indiquer un **intérêt de plus longue date** ou un usage plus fréquent.  
 
----
 
 ### Été, hiver… YouTube au fil des mois
 
