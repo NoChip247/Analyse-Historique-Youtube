@@ -40,7 +40,7 @@ Cette analyse vise à :
 
 ## Résultats
 
-![Dataviz](assets/images/Capture d'écran 2025-02-28 112532.png)
+![Dataviz](https://github.com/NoChip247/analyse-historique-youtube/blob/ccc50113054f76ed1a06e47cd61446ca30deb063/assets/images/Capture%20d'%C3%A9cran%202025-02-28%20112532.png)
 
 ## Analyse
 
