@@ -40,7 +40,8 @@ Cette analyse vise à :
 
 ## Résultats
 
-*Image à insérer ici*  
+![Dataviz](assets/diagram.png)
+ 
 
 
 ## Analyse
