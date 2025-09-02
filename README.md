@@ -40,9 +40,7 @@ Cette analyse vise à :
 
 ## Résultats
 
-![Dataviz](assets/diagram.png)
- 
-
+![Dataviz](assets/images/Capture d'écran 2025-02-28 112532.png)
 
 ## Analyse
 
